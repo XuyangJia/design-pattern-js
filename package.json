@@ -1,0 +1,12 @@
+{
+  "name": "design-pattern-js",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "fix": "standard --fix",
+    "start": "nodemon"
+  },
+  "repository": "https://github.com/XuyangJia/design-pattern-js.git",
+  "author": "Xuyang Jia <jiaxuyang@outlook.com>",
+  "license": "MIT"
+}
